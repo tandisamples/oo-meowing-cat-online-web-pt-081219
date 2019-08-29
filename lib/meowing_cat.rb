@@ -1,3 +1,4 @@
 class Cat 
-  attr_reader 
+  attr_reader :name 
+  attr_writer :name
 end
