@@ -1,3 +1,3 @@
 class Cat 
-  attr_
+  attr_reader 
 end
